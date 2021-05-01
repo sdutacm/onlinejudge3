@@ -2,6 +2,11 @@
 
 ## Beta
 
+### [2021-05-01] 3.4.1
+
+- 新增：Haskell、Pascal、C#、Ruby、PHP、Perl 等新语言支持
+- 新增：支持新评测机的 Special Judge
+
 ### [2021-03-11] 3.4.0
 
 - 新增：Rust、Go、JavaScript、TypeScript 等新语言支持
