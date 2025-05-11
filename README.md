@@ -10,6 +10,7 @@
 - [onlinejudge3-schedules](https://github.com/sdutacm/onlinejudge3-schedules)：OJ3 定时任务
 - [onlinejudge3-scripts](https://github.com/sdutacm/onlinejudge3-scripts)：OJ3 外部脚本
 - [onlinejudge3-functions](https://github.com/sdutacm/onlinejudge3-functions)：OJ3 云函数（在云上模式部署时，负责承载大多数定时任务和外部脚本的功能）
+- [onlinejudge3-api-sdk](https://github.com/sdutacm/onlinejudge3-api-sdk)：OJ3 API SDK，提供全部 OJ 接口的 JS 操作 SDK
 
 ## 如何反馈
 
